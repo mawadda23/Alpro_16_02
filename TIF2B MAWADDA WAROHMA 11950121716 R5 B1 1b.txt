@@ -1,0 +1,5 @@
+b. Menentukan nilai tertinggi antara variabel x,y, dan z
+i.input nilai x,y, dann z
+ii.jika z > y
+iii.maka yang terbesar z 
+

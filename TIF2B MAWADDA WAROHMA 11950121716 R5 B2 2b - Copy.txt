@@ -1,0 +1,6 @@
+b. Menentukan nilai tertinggi antara variabel x,y, dan z
+input (x,y,z)
+if (x>y) and (x>z) then write (Bilangan terbesar adalah = x)
+else if (y>x) and (y>z) then write (bilangan terbesar adalah = y)
+else write (Bilangan terbesar adalah z)
+

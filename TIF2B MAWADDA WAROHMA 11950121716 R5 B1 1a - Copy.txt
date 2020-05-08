@@ -1,0 +1,8 @@
+a. Menentukan nilai tertinggi antara variabel x dan y
+
+i.input nilai x dan y
+ii. jika x > y
+iii. maka nilai terbesar x
+
+
+ 

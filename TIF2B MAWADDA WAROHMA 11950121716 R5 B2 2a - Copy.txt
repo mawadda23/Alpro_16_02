@@ -1,0 +1,6 @@
+a. Menentukan nilai tertinggi antara variabel x dan y
+ input (x,y)
+ if (y>x) then write (Bilangan terbesar adalah y)
+else if (x>y) then write (Bilangan terbesar = x)
+else write (Bilangan terbesar adalah y)
+

@@ -1,0 +1,7 @@
+c. Menentukan bilangan pembagi terkecil selain 1 dan 2
+variabel a,b,c
+input a 
+input nilai b bilangan pembagi selain 1&2
+int c = a/b
+output c
+

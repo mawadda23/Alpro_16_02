@@ -1,0 +1,8 @@
+d. Menentukan sebuah angka adalah bilangan prima atau tidak
+
+i. input variabel faktor 0
+ii.input bilangan positif bilangan
+iii.proses A=1 sampai dengan bilangan
+iv.jika bilangan A sama dengan 0,tambah 1 nilai variabel vektor
+v.jika variabel vektor=2,cetak bialngan prima 
+vi.jika tidak cetak bilangan tidak prima

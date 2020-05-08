@@ -1,0 +1,14 @@
+d. Menentukan sebuah angka adalah bilangan prima atau tidak
+
+int bilangan,faktor=0,a;
+printf("input bilangan bulat positif: ");
+scanf(%d & bilangan);
+
+for (a=1 a<= bilangan: a++)
+if (bilangan %a==0)
+printf(%d adalah bilangan prima )
+else 
+printf(%d bukan bilangan prima)
+getch
+
+
