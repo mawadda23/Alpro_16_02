@@ -1,0 +1,8 @@
+
+input nilai array
+tampilkan semua bilangan array
+for int i=0;i<nilai
+n\
+hanya yg memiliki angka 2 di array
+for int i=0;i<nilai
+if nilai.equals

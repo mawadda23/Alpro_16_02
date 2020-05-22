@@ -1,0 +1,10 @@
+
+input nilai array
+tampilkan semua nilai array
+for i=0;i<array.length;i++
+angka terbesar 
+int max=nilai 0
+for i=0;i<array.length;i++
+for int j=i;j<nilai
+if nilai j>nilai i
+max=nilai j 

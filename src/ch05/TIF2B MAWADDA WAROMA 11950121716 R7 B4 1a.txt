@@ -1,0 +1,6 @@
+a. 
+
+for 1<= i <= n
+max A(i)|1<i <n
+for 1 <= i <= n, A(i) = 1 + max A(j)|1 < i
+and input (j) < input(i)

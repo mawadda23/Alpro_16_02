@@ -1,0 +1,5 @@
+input margesort
+if (list.length<=1)
+while (iFirst<first.length&&iSecod<secod.length)
+if else result[iMarget]=firsh[ifirsh]iFirsh++
+end

@@ -1,0 +1,11 @@
+b. pseudocode algoritma Selection sort
+input nilai array
+for int x=0;x<jlh data;x++
+data [x]+
+int y=0;y<jlh data:y++
+data[y]+
+boolean tukar=false
+if main >data[y]
+else if main >data[x]
+end
+

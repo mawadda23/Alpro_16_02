@@ -1,0 +1,6 @@
+
+input nilai array 
+panjang array 
+menampilkan semua nilai array
+for i=0<nilai.length;1++
+endfor

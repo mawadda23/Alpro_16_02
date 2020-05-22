@@ -1,0 +1,8 @@
+
+input nilai array
+tampilkan semua nilai array
+for int i=0;i<nilai
+n\
+angka kelipatan 5
+for int i=0;i<nilai.length.i++
+if niali i % 5==0

@@ -1,0 +1,6 @@
+input BoyerMoore
+chart[] text = t.toCharArray()
+char patten = p.toCharArray()
+int pos= indexOf(text, patten)
+if (pos==-1)
+else

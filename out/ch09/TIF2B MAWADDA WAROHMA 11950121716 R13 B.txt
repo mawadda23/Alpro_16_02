@@ -1,0 +1,6 @@
+input prime
+boolean prime[] = new boolean[n+1]
+for int i=0;i<n;i++
+primr[i] true
+for int p=2;p*p<=n;p++
+end

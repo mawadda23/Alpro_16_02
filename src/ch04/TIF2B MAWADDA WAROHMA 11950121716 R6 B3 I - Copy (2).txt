@@ -1,0 +1,9 @@
+
+input nilai array
+tampilkan semua nilai array
+int i,j
+for i=0;i<array.length;i++
+int selisih= array 0- array 1
+if i=array.length-1
+else
+selisih = array i - array 

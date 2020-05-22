@@ -1,0 +1,7 @@
+
+input nilai array
+tampilkan semua nilai array
+for int i=0;i<nilai.length;i++
+jumlah angka dalam array + nilai
+int jumlah
+for int angka :nilai

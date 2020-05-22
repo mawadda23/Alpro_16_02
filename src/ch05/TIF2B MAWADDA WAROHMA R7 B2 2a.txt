@@ -1,0 +1,6 @@
+input [1...10]
+for currentEndIndex : = 1 to 10 do
+    curretMaxSum : = curretMaxSum + array[CurrentEndIndex]
+    if maxsum then
+endif
+endfor

@@ -1,0 +1,8 @@
+a. 
+m <- length[Y]
+n <- length[X]
+for  i <- 1 to m 
+ c[i,0] <- 0
+for j <- 2 to n
+c[0,j] <-0
+endfor

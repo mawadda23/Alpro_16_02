@@ -1,0 +1,7 @@
+
+input nilai array
+int cari
+boolean ketemu = false;
+for i=0;i<nilai
+if nilai i = cari
+else if ketemu= false

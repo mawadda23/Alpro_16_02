@@ -1,0 +1,7 @@
+input KnuthMoorisPratt
+failure=new int[pat.length()]
+fail(pat)
+int pos=posMatch(text, pat)
+if (pos==-1)
+else
+end

@@ -1,0 +1,6 @@
+b. pseudocode algoritma Intrsertion sort
+input nilai array
+for int x: intarray
+\n sortet integer array
+(x+ " ")
+end
